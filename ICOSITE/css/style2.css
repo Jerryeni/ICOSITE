@@ -1,0 +1,22 @@
+body {
+    background-image: url("../images/backgrounds/asset-23.jpg") !important;
+}
+.bg-image-1 {
+    background-image: url("../images/backgrounds/crypto-2.png") !important;
+  }
+  
+  .bg-image-2 {
+    background-image: url("../images/backgrounds/asset-42.jpg") !important;
+  }
+  
+  .bg-image-3 {
+    background-image: url("../images/backgrounds/asset-46.jpg") !important;
+  }
+  
+  .bg-image-4 {
+    background-image: url("../images/backgrounds/asset-49.jpg") !important;
+  }
+  
+  .bg-image-5 {
+    background-image: url("../images/backgrounds/app-img.jpg");
+  }
